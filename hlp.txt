@@ -1,0 +1,106 @@
+
+PARDUS GÖZCÜ 
+
+YARDIM KONULARI
+
+
+1) İçerik Filtresi
+
+→ Kullanıcılar:
+	
+	Bu bölümde sisteminizde kayıtlı kullanıcılar çekilmiş olup; site adı ve IP karalistesi, yasaklı kelimeler ve band genişliği adlı bölümler seçili kullanıcıya özel olarak tasarlanmıştır.
+	
+→ Site Adı ve IP Kara Listesi:
+
+	Bu bölümde seçili kullanıcıya ait yasaklı sitelerin adları veya IP adresleri gösterilmektedir.
+“Ekle” butonu ile listeye yasaklanacak sitenin adını veya IP adresini girebilirsiniz. Eklediğiniz site isim veya IP adresinin yasaklanabilmesi için “Uygula” butonuna basmanız gerekmektedir.  Listedeki bir sitenin yasağını kaldırmak için, yasağı kaldırılacak sitenin adını veya IP adresini seçip “Çıkar” butonuna basmanız o sitenin listeden silinmesini sağlar; yaptığınız değişikliğin geçerli olabilmesi için  çıkarma işleminden sonra yine “Uygula” butonuna basmanız gerekmektedir. 
+	
+→ Yasaklı Kelimeler:
+	
+	Bu bölümde “Ekle” butonu ile ilgili kullanıcı için yasaklanacak kelimeleri girebilirsiniz. Bir kelimenin yasağını kaldırmak istediğinizde, listeden yasağını kaldırmak istediğiniz kelimeyi lseçip “Çıkar” butonuna basmanız gerekmektedir. Ekleme ve çıkarma işlemlerinden sonra yaptığınız değişikliklerin geçerli olması “Uygula” butonuna basmanıza bağlıdır.
+	
+
+
+2) Kullanım Kontrolü
+	
+	“Kullanımı Kısıtla” butonu ile ilgili kullanıcı için tablodan seçeceğiniz zaman aralıklarını yasaklayabilir, böylece bu sürelerde kullanıcının sisteme girmesini engelleyebilirsiniz. Tablodan seçtiğiniz zaman aralıkları yasaklanacaktır, yasaklı sürenin dolmasıyla sistem ilgili kullanıcıya otomatik olarak açılacaktır. Seçtiğiniz zaman aralıklarının yasaklanabilmesi “Onayla” butonuna basmanıza bağlıdır.
+
+	“İnternet Erişimini Kısıtla”  butonu ile ilgili kullanıcı için tablodan seçeceğiniz zaman aralıklarında internet erişimini yasaklayabilir, böylece bu sürelerde kullanıcının interneti kullanmasını engelleyebilirsiniz. Tablodan seçtiğiniz zaman aralıkları yasaklanacaktır, yasaklı sürenin dolmasıyla sistem ilgili kullanıcının internet erişimine otomatik olarak izin verecektir. Seçtiğiniz zaman aralıklarının yasaklanabilmesi “Onayla” butonuna basmanıza bağlıdır.
+
+	
+
+3) Kullanım Yönetimi
+	
+	Bu bölümde ilgili kullanıcı için uygulama listesinden seçeceğiniz herhangi bir uygulama “Ekle” butonuna basmanız ile “Uygulama Kara Listesi”ne eklenecektir. Seçtiğiniz uygulamanın ilgili kullanıcının erişimine yasaklanabilmesi “Uygula” butonuna basmanıza bağlıdır. Seçili kullanıcı için yasaklı bir uygulamanın yasağı kaldırılmak istendiğinde Uygulama Kara Listesi'nden yasağı kaldırılmak istenen uygulama seçilmeli ve “Çıkar” butonuna basılmalıdır. Bu işlem uygulamayı Uygulama Kara Listesi'nden kaldırmaya yarar. Yasağın kalkması “Çıkar” butonunun ardından “Uygula” butonuna basılmasına bağlıdır. “”Uygulama Kara Lİstesi”nde güncel verileri görmek için “Yenile” butonuna basmanız gerekmektedir. 
+
+
+
+4) Gözetleme
+
+→ İşlem Kaydı:
+
+	Bu bölümde “Kayıtları Görüntüle” butonu ile ilgili kullanıcının işlem kaydını “Kullanıcı Giriş Zamanları”, “Kullanılan Uygulamalar”, “Konsole Komut Geçmişi”, “İnternet Geçmişi” ve “Son X Gün İçerisinde Değiştirilmiş Dosyalar” olmak üzere 5 başlık altında görebilirsiniz.
+* X Ayarlar modülünde ayrıntılı olarak anlatılmış olup, değiştirilmiş dosyaların son kaç gün için gösterileceğini belirten bir sayıdır.
+
+*İnternet Geçmişi 3 tür tarayıcı için incelenmiştir(Chrome, Chromium ve Firefox).
+*Kullanılan Uygulamalar başlığı altında hem işletim sisteminin hem de ilgili kullanıcının açtığı uygulamalar gösterilmiştir.
+
+	“Kayıtları Temizle” butonunu kullanarak sistemde seçili kullanıcı için tutulan kayıt dosyasını silebilirsiniz. Yaptığınız temizleme işlemi yalnızca seçili kullanıcı için tutulan geçici kayıt dosyasını silecektir. Arşivlenen kayıtları kendiniz ayrıca silebilirsiniz. 
+
+	“Arşiv Dosyası Oluştur” butonu ile seçili kullanıcı için geçerli olan geçici kayıt dosyasını arşivleyebilirsiniz. Eğer seçili kullanıcı için daha önceden tutulan bir arşiv dosyası yoksa güncel veriler alınarak arşivlenir. Daha önceden tutulan arşiv dosyası varsa, mevcut dosya güncel verilerle yenilenir. 
+
+ *Kayıtları görüntüleme ve arşiv dosyası oluşturma işlemleri ilgili kullanıcıda tarayıcıların kapanmasına neden olacaktır. 
+
+→ Etkin Görevler:
+
+	Bu bölümde ilgili kullanıcının o anda aktif olan görevleri gösterilmektedir.
+	İlgili kullanıcının aktif görevlerinden biri durdurulmak istendiğinde “Etkin Görevler” listesinden durdurulmak istenen uygulamanın seçilmesi ve “Durdur” butonuna basılması yeterlidir.
+	İlgili kullanıcının aktif görevlerinden biri durdurulmak ve yasaklanmak istendiğinde “Etkin Görevler” listesinden uygulamanın seçilmesi ve “Durdur ve Yasakla” butonuna basılması yeterlidir.
+	“Etkin Görevler” listesini güncellemek için “Yenile” butonuna basmanız yeterlidir.
+
+→ İleti Gönder:
+
+	Bu bölümde seçili kullanıcı için özelleştirilmiş mesajlar göndermek mümkündür. “İleti Gönder” bölümüne göndermek istediğiniz iletiyi yazmanız ve “Gönder” butonuna basmanız seçili kullanıcının masaüstüne mesajınızı ulaştırmaya yetecektir. 
+
+
+
+5) Ayarlar
+
+→ Kullanıcı Mesajları: 
+	
+	Bu bölüm kullanıcılarınız için özelleştirebileceğiniz  mesajlar göndermeniz için tasarlanmıştır. Herhangi bir değişiklik yapmadığınız takdirde, gerekli anlarda kullanıcılara öntanımlı mesajlar gösterilecektir.
+
+	Kullanılan $  simgesi sırası ile site adını, anahtar kelimeyi ve uygulama adını temsil etmektedir. Örneğin A kullanıcısı için example.com adlı siteyi engellediğinizde, mesajınız iletilirken ilk mesaj kutusundaki $ simgesinin yerini example.com alacak ve kullanıcı mesajınızı “example.com sitesi sistem yoneticisi tarafindan engellendi.” şeklinde görecektir. Özelleştirilmiş mesajınızın herhangi bir yerinde kullanacağınız $ simgesi, gönderdiğiniz mesajda kullandığınız yere göre site adı, anahtar kelime veya uygulama adı olarak görüntülenecektir. 
+
+	“Kullanım süresi bitmeden önce gösterilecek mesaj:” başlığı altındaki “X”  ilgili kullanıcının sistemi tekrar kaç dakika sonra kullabileceğini simgelemektedir. Özelleştirilmiş mesajınızın herhangi bir yerinde kullanacağınız X simgesi kullanıcıya sistemi kaç dk sonra tekrar kullanabileceğini belirten bir sayı olarak gösterilecektir. Herhangi bir kullanıcı için sistemi kullanıma yasakladığınızda, ilgili kullanıcıya sistemi kullanma süresi bitmeden 3 dakika önce “Kullanım süresi bitmeden gösterilecek mesaj:” başlığı altındaki mesaj gösterilecektir.
+
+* Mesajlarınızda Türkçe karakter kullanmanız görüntüleme sırasında sorun çıkarabileceğinden, Türkçe karakter kullanmamayı tercih etmeniz önerilir.
+
+	“Güncelle” butonu yaptığınız değişikliklerin uygulamanın bir sonraki açılışından itibaren geçerli olmasını sağlayacaktır.
+
+
+→ Uygulama Teması:
+
+	 Bu başlık altında Pardus Gözcü için 6 farklı temadan birini seçebilir, zevkinize uygun bir görünüm elde edebilirsiniz. Seçeneklerden temanızı seçtikten sonra “Uygula” butonuna basıp, uygulamayı bir sonraki başlatmanızdan itibaren seçtiğiniz tema ile kullanabilirsiniz.
+
+
+→ Genel:
+
+	Bu başlık altında Pardus Gözcü'yü bilgisayarın her açılışında otomatik olarak başlatma seçeneği sunulmuş olup, ilgili yeri işaretlemeniz halinde uygulama açılışta otomatik olarak başlatılacak ve kullanıcıların kontrol edilmesi gereken işlemleri uygulanabilecektir.Seçeneği işaretlememeniz durumunda ise 2. modülde yaptığınız yasaklamalar geçerli olmayacaktır. Uygulamayı otomatik başlatıp daha sonrasında kapattığınızda yaptığınız yasaklamalar geçerliliğini koruyacaktır. Bu nedenlerle uygulamayı “otomatik başlat”  seçeneği ile kullanmanız tavsiye edilir. 
+ NOT: Otomatik başlatma işlemi sistemdeki diğer kullanıcılara dosyalarınızı görünür kılacaktır. Bu işlevi kullamamanız durumunda dosyalarınız diğer kullanıcıların erişimine kapatılır. 
+
+	“Genel” başlığı altındaki bir diğer kısım olan, sistem kayıtları içerisinde gösterilen değişiklik yapılmış dosyaların son kaç gün için görüntüleneceği isteğinize bırakılmış olup, kutucuğa gireceğiniz sayı  ile belirlenecektir.
+
+	Genel başlığı altındaki bu iki kısım için de yaptığınız değişiklerin geçerli olması “Uygula” butonuna basmanıza bağlıdır.
+
+
+
+NOTLAR:
+
+1) Uygulamayı kurduktan sonra masaüstünüzde “Pardus Gözcü” adında uygulama simgesini göreceksiniz.Uygulamayı simgeye tıklayarak (yönetici parolanızı girmelisiniz) da kullanabilirsiniz.
+
+2) “Gözetleme” modülündeki “İleti Gönder” bölümünde ve “Ayarlar”daki “Mesajlar” başlığı altında göndereceğiniz iletilerde seçtiğiniz kullanıcı o anda aktif değilse mesaj iletilmeyecektir. Aktif kullanıcıları “Gözetleme” modülündeki “Aktif Kullanıcılar” adlı başlığın altında görebilirsiniz.
+
+
+
+
